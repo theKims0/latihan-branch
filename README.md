@@ -4,4 +4,6 @@ ini juga merupakan latihan branch
 
 
 - baruuu ini github
--1
+- 1
+- 2
+  
